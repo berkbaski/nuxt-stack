@@ -11,8 +11,12 @@
 export default {}
 </script>
 
-<style scoped>
+<style lang="scss" scoped>
 .container {
   text-align: center;
+
+  button {
+    outline: 0;
+  }
 }
 </style>
