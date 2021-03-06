@@ -1,5 +1,15 @@
 # nuxt-stack
 
+## Includes
+* Vuex
+* Bootstrap
+* Scss
+* Prettier & ESLint
+* Some needed components
+* Some needed services and the structures
+
+[👋🏼 2 owner](https://berkbaski.com)
+
 ## Build Setup
 
 ```bash
