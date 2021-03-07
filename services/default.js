@@ -1,5 +1,3 @@
-this.$axios.defaults.baseURL = ''
-
 export const setHeader = (key, value) => {
   if (value) {
     this.$axios.defaults.headers[key] = value
